@@ -18,15 +18,16 @@ namespace Zadacha_4
                 int count = 1;
                 while(count<=nam_A)
                 {
-                    if(count/2==0)
-                    {
-                        count++;
+                    if(count%2==0)
+                    {   
+                        
                         Console.Write(count+" ");
                     }
-                    
+                    count++;
+                }   
 
                     
-                }
+                
                 
                     
                     

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/NO NAME/HomWork C# 1/Zadacha_4/Zadacha_4.csproj",
+      "projectUniqueName": "/Library/HomWork C# 1/Zadacha_4/Zadacha_4.csproj",
       "projectName": "Zadacha_4",
-      "projectPath": "/Volumes/NO NAME/HomWork C# 1/Zadacha_4/Zadacha_4.csproj",
+      "projectPath": "/Library/HomWork C# 1/Zadacha_4/Zadacha_4.csproj",
       "packagesPath": "/Users/Максим/.nuget/packages/",
-      "outputPath": "/Volumes/NO NAME/HomWork C# 1/Zadacha_4/obj/",
+      "outputPath": "/Library/HomWork C# 1/Zadacha_4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Максим/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,18 @@
 /Volumes/NO NAME/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.pdb
 /Volumes/NO NAME/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.genruntimeconfig.cache
 /Volumes/NO NAME/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/ref/Zadacha_4.dll
+/Library/HomWork C# 1/Zadacha_4/bin/Debug/net6.0/Zadacha_4
+/Library/HomWork C# 1/Zadacha_4/bin/Debug/net6.0/Zadacha_4.deps.json
+/Library/HomWork C# 1/Zadacha_4/bin/Debug/net6.0/Zadacha_4.runtimeconfig.json
+/Library/HomWork C# 1/Zadacha_4/bin/Debug/net6.0/Zadacha_4.dll
+/Library/HomWork C# 1/Zadacha_4/bin/Debug/net6.0/Zadacha_4.pdb
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.csproj.AssemblyReference.cache
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.GeneratedMSBuildEditorConfig.editorconfig
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.AssemblyInfoInputs.cache
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.AssemblyInfo.cs
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.csproj.CoreCompileInputs.cache
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.dll
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/refint/Zadacha_4.dll
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.pdb
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/Zadacha_4.genruntimeconfig.cache
+/Library/HomWork C# 1/Zadacha_4/obj/Debug/net6.0/ref/Zadacha_4.dll
