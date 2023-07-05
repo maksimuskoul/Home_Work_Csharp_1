@@ -7,7 +7,7 @@
 
 using System;
 
-namespace Zadacha_1 
+namespace Zadacha_2 
     {
         class program
         {
