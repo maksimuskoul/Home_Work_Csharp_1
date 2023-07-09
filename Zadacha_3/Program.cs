@@ -5,27 +5,27 @@
   7 -> нет*/
 using System;
 
-namespace Zadacha_3 
+namespace Zadacha_3
 {
-        class program
+    class program
+    {
+        static void Main(string[] args)
         {
-            static void Main(string[]args)
-            {
-                
-                Console.WriteLine("напишите первое число");
-                int nam_A = Convert.ToInt32(Console.ReadLine());
-                int z = 2;
-                
-                if (nam_A >0 && nam_A/z==0) 
-                {
-                    Console.WriteLine("ваше число подходит");
-                }
-                else
-                {
-                    Console.WriteLine("ваше число НЕ подходит");
-                }   
 
+            Console.WriteLine("напишите первое число");
+            int nam_A = Convert.ToInt32(Console.ReadLine());
+            int z = 2;
+
+            if (nam_A > 0 && nam_A / z == 0)
+            {
+                Console.WriteLine("ваше число подходит");
             }
+            else
+            {
+                Console.WriteLine("ваше число НЕ подходит");
+            }
+
         }
-        
-} 
+    }
+
+}

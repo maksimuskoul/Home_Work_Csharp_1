@@ -5,42 +5,34 @@
 */
 using System;
 
-namespace Zadacha_4 
+namespace Zadacha_4
+{
+    class program
     {
-        class program
+        static void Main(string[] args)
         {
-            static void Main(string[]args)
+            Console.WriteLine("Введите число");
+
+            int nam_A = Convert.ToInt32(Console.ReadLine());
+
+            int count = 1;
+            while (count <= nam_A)
             {
-                Console.WriteLine("Введите число");
-
-                int nam_A = Convert.ToInt32(Console.ReadLine());
-                
-                int count = 1;
-                while(count<=nam_A)
+                if (count % 2 == 0)
                 {
-                    if(count%2==0)
-                    {   
-                        
-                        Console.Write(count+" ");
-                    }
-                    count++;
-                }   
 
-                    
-                
-                
-                    
-                    
-                    
-                    
-               
+                    Console.Write(count + " ");
+                }
+                count++;
             }
+
         }
-        
-    }   
+    }
+
+}
 
 
 
-    /*Console.WriteLine("Введите число");
-    int nam_A = Convert.ToInt32(Console.ReadLine());
-    int array[Console.ReadLine()]*/
+/*Console.WriteLine("Введите число");
+int nam_A = Convert.ToInt32(Console.ReadLine());
+int array[Console.ReadLine()]*/
